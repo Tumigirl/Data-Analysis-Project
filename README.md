@@ -6,4 +6,19 @@
   
 ## Data Used
 -<a href="https://github.com/Tumigirl/Data-Analysis-Project/blob/main/100%20Sales%20Records(AutoRecovered).xlsx"> Dataset <a>
+-<a href="https://github.com/Tumigirl/Data-Analysis-Project/blob/main/100%20Sales%20Records(AutoRecovered)%20-%20Excel%209_29_2025%209_27_58%20AM.png"> Dashbo <a>
+
+
+## Key Questions
+- What country has the best performance
+- What item is sold the most in each country
+- What channel perform well generally, online or offline
+- which region needs more reach
+
+## 🔄 Process
+- Step 1: Data Collection  
+- Step 2: Data Cleaning / Preparation  
+- Step 3: Data Exploration  
+- Step 4: Data Analysis / Modeling  
+- Step 5: Dashboard Creation  
 
