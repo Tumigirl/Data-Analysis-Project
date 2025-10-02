@@ -24,3 +24,14 @@
 ## Dashboard
 <img width="1335" height="580" alt="100 Sales Records(AutoRecovered) - Excel 9_29_2025 9_27_58 AM" src="https://github.com/user-attachments/assets/59861534-d7d4-44f5-9aad-d3ef3f53f935" />
 
+## Project Insights
+- Discovered more sales were made online than offline
+- Sub-suharan Africa made the most sales overall
+- North America made the most sales
+- The most sold item over the years is "Office Supplies"
+
+## Final Conclusion
+- Since the North America has the least sales, research should be done as to why they are low and more advertisement should be done
+- The fruit section has been dooing bad lately, it is recommended that it be scraped off completely
+- Alot of people prefer shopping online than offline, that should be utitilized. AThe store should invest in online ads.
+
