@@ -5,5 +5,5 @@
 - There is an interactice dashboard that tracks the rend of products in every country and also to know which channel brings more sales, online shopping or offline.
   
 ## Data Used
--<a href="https://github.com/Tumigirl/Data-Analysis-Project/blob/main/100%20Sales%20Records(AutoRecovered).xlsx" Dataset <a>
+-<a href="https://github.com/Tumigirl/Data-Analysis-Project/blob/main/100%20Sales%20Records(AutoRecovered).xlsx"> Dataset <a>
 
