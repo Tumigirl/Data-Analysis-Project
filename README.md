@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard
-A growing portfolio of data analysis and visualization projects. Starting with Excel dashboards and reports, this repository showcases skills in cleaning, analyzing, and presenting data to extract meaningful business insights. 
+# Vito Store Data Analysis
+
+## Project Objective
+- The aim of this project is to find out how well each product does in every region as the year goes by and to know what region need to be advertised to more. 
+- There is an interactice dashboard that tracks the rend of products in every country and also to know which channel brings more sales, online shopping or offline.
